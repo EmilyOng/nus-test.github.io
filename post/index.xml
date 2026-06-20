@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | Trustworthy Engineering of Software Technologies (TEST) Lab</title>
+    <link>https://nus-test.github.io/post/</link>
+      <atom:link href="https://nus-test.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nus-test.github.io/media/logo_hu54a81beaedce3437486bda7d4bb96888_11488_300x300_fit_lanczos_3.png</url>
+      <title>Latest News</title>
+      <link>https://nus-test.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Our paper &#34;Automated Database Testing via LLM-Synthesized SQL Features&#34; was accepted at SIGMOD 2027.</title>
+      <link>https://nus-test.github.io/post/26-06-13-sigmod-r1-llm-sql-features/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/26-06-13-sigmod-r1-llm-sql-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinsheng Ba will join The Chinese University of Hong Kong, Shenzhen as an Assistant Professor in 2026 Fall, and is looking for PhD students.</title>
+      <link>https://nus-test.github.io/post/26-03-10-jinsheng-faculty/</link>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/26-03-10-jinsheng-faculty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our papers &#34;Dialect-Agnostic SQL Parsing via LLM-Based Segmentation&#34;, &#34;Detecting Join Bugs in Database Engines via Join Implication Reasoning&#34;, and &#34;NRBench: A Benchmark Suite for Learned Database Components with Drift Modeling&#34; were accepted at SIGMOD 2026.</title>
+      <link>https://nus-test.github.io/post/26-02-24-sigmod-r4-papers/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/26-02-24-sigmod-r4-papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Bringing Order to Practical Validation of Database Isolation Levels&#34; was accepted at TOCS.</title>
+      <link>https://nus-test.github.io/post/26-01-17-tocs/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/26-01-17-tocs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;ACME: Automated Clause Mapping Engine for Testing Emerging Database Systems&#34; was accepted at FSE 2026.</title>
+      <link>https://nus-test.github.io/post/25-12-30-fse-acme/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/25-12-30-fse-acme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rajdeep Singh and Junwen An were awarded the &#34;Research Achievement Award&#34; by the School of Computing!</title>
+      <link>https://nus-test.github.io/post/25-01-08-researchaward-rajdeep-junwen/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/25-01-08-researchaward-rajdeep-junwen/</guid>
+      <description>&lt;p&gt;Congratulations to Rajdeep and Junwen!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Scaling Automated Database System Testing&#34; was accepted at ASPLOS 2026.</title>
+      <link>https://nus-test.github.io/post/25-11-26-asplos-sqlancerpp/</link>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/25-11-26-asplos-sqlancerpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junwen An and Emily Ong Got First Place at SPLASH ’25 SRC!</title>
+      <link>https://nus-test.github.io/post/25-10-18-splash-sv/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/25-10-18-splash-sv/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;splash25_sv.png&#34; alt=&#34;&#34;&gt;
+Congratulations to Junwen and Emily!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jinsheng Ba was awarded a &#34;SoC CS PhD Thesis Award - Honorable Mention&#34; for his PhD thesis.</title>
+      <link>https://nus-test.github.io/post/25-06-20-jinsheng-soc-award/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/25-06-20-jinsheng-soc-award/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Towards a Unified Query Plan Representation&#34; was accepted at ICDE 2025. Check https://nus-test.github.io/uplan/ for more details.</title>
+      <link>https://nus-test.github.io/post/25-03-27-icde-uplan/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/25-03-27-icde-uplan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;On the Mistaken Assumption of Interchangeable Deep Reinforcement Learning Implementations&#34; was accepted at ICSE &#39;25!</title>
+      <link>https://nus-test.github.io/post/10-02-25-icse25-mistaken-assumption/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/10-02-25-icse25-mistaken-assumption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suyang Zhong received a &#34;Research Achievement Award&#34; from School of Computing!</title>
+      <link>https://nus-test.github.io/post/25-01-08-researchaward-suyang/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/25-01-08-researchaward-suyang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>We received a &#34;Singapore Open Research Award&#34;</title>
+      <link>https://nus-test.github.io/post/24-11-12-singapore-open-research-award/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/24-11-12-singapore-open-research-award/</guid>
+      <description>&lt;p&gt;See the award citation on &lt;a href=&#34;https://libguides.ntu.edu.sg/SGopenresearchawards/Rigger&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Open Research for Robustifying Data-centric Systems&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We thank &lt;a href=&#34;https://libguides.ntu.edu.sg/Profile/MerylChin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meryl Chin Guiying&lt;/a&gt; for designing the poster below.
+&lt;img src=&#34;poster.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Constant Optimization Driven Database System Testing&#34; was accepted at SIGMOD 2025 (round 3).</title>
+      <link>https://nus-test.github.io/post/24-11-03-sigmod-r3-coddtest/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/24-11-03-sigmod-r3-coddtest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our papers &#34;Understanding and Reusing Test Suites Across Database Systems&#34; and &#34;Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs&#34; were accepted at SIGMOD 2025.</title>
+      <link>https://nus-test.github.io/post/24-08-01-sigmod-r2-papers/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/24-08-01-sigmod-r2-papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinsheng Ba has passed the oral defense of his PhD thesis titled &#34;Testing Database Engines via Query Plans&#34; and will join ETH Zurich as a postdoctoral researcher.</title>
+      <link>https://nus-test.github.io/post/24-07-18-jinsheng-graduation/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/24-07-18-jinsheng-graduation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Inconsistencies in TeX-produced Documents&#34; was accepted at ISSTA 2024.</title>
+      <link>https://nus-test.github.io/post/24-07-03-jovyn-issta/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/24-07-03-jovyn-issta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ken Jin and Jules Poon were awarded an NUS-wide &#34;Outstanding Undergraduate Researcher Prize&#34; 🏆 for their work on improving the performance of CPython.</title>
+      <link>https://nus-test.github.io/post/24-06-13-ken-jin-jules-award/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/24-06-13-ken-jin-jules-award/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Validating Database System Isolation Level Implementations with Version Certificate Recovery&#34; received a Best Paper Award 🏆 at EuroSys 2024.</title>
+      <link>https://nus-test.github.io/post/24-04-23-jack-eurosys-award/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/24-04-23-jack-eurosys-award/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Towards Efficient Build Ordering for Incremental Builds with Multiple Configurations&#34; was accepted at FSE 2024.</title>
+      <link>https://nus-test.github.io/post/24-04-16-jun-fse/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/24-04-16-jun-fse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Keep It Simple: Testing Databases via Differential Query Plans&#34; was accepted at SIGMOD 2024.</title>
+      <link>https://nus-test.github.io/post/15-03-24-dqp-sigmod/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/15-03-24-dqp-sigmod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Detecting Build Dependency Errors in Incremental Builds&#34; was accepted at ISSTA 2024.</title>
+      <link>https://nus-test.github.io/post/15-03-24-builds-issta/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/15-03-24-builds-issta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Validating Database System Isolation Level Implementations with Version Certificate Recovery&#34; was accepted at EuroSys 2024.</title>
+      <link>https://nus-test.github.io/post/08-02-24-certificates-eurosys24/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/08-02-24-certificates-eurosys24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NUS School of Computing featured our work in an article!</title>
+      <link>https://nus-test.github.io/post/24-01-05-nus-interview/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/24-01-05-nus-interview/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.comp.nus.edu.sg/features/2024-detecting-logic-bugs-mrigger/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article featured at https://www.comp.nus.edu.sg/&lt;/a&gt; describes our &lt;a href=&#34;https://nus-test.github.io/publication/2023-icse-qpg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Query Plan Guidance&lt;/a&gt; work, which received an ACM SIGSOFT Distinguished Paper Award at ICSE 2023.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Finding Cross-rule Optimization Bugs in Datalog Engines&#34; was accepted at OOPSLA &#39;24!</title>
+      <link>https://nus-test.github.io/post/23-12-23-deopt-oopsla24/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/23-12-23-deopt-oopsla24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Finding XPath Bugs in XML Document Processors via Differential Testing&#34; was accepted at ICSE &#39;24!</title>
+      <link>https://nus-test.github.io/post/15-12-23-icse24-xml-testing/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/15-12-23-icse24-xml-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Finding Performance Issues in Database Systems Through the Lens of Cardinality Estimation&#34; was accepted at ICSE&#39;24!</title>
+      <link>https://nus-test.github.io/post/23-10-10-cert-icse24/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/23-10-10-cert-icse24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Detecting Logic Bugs in Graph Database Management Systems via Injective and Surjective Graph Pattern Transformation&#34; was accepted at ICSE &#39;24!</title>
+      <link>https://nus-test.github.io/post/23-08-23-icse24-gdbms-testing/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/23-08-23-icse24-gdbms-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinsheng Ba received a &#34;Dean&#39;s Graduate Excellent Research Award&#34; from School of Computing!</title>
+      <link>https://nus-test.github.io/post/23-08-10-deanaward-jinsheng/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/23-08-10-deanaward-jinsheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Testing Database Engines via Query Plan Guidance&#34; received &#34;ACM SIGSOFT Distinguished Paper Award&#34; at ICSE&#39;23!</title>
+      <link>https://nus-test.github.io/post/23-02-23-distinguishedaward-icse23/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/23-02-23-distinguishedaward-icse23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinsheng Ba received a &#34;Research Achievement Award&#34; from School of Computing!</title>
+      <link>https://nus-test.github.io/post/23-01-05-researchaward-jinsheng/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/23-01-05-researchaward-jinsheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Testing Database Engines via Query Plan Guidance&#34; was accepted at ICSE&#39;23!</title>
+      <link>https://nus-test.github.io/post/22-12-09-qpg-icse23/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/22-12-09-qpg-icse23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chi will give a talk on &#34;Infrared: A Meta Bug Detector&#34; in the PLSE seminar this week.</title>
+      <link>https://nus-test.github.io/post/22-10-03-chi-plse-talk/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/22-10-03-chi-plse-talk/</guid>
+      <description>&lt;p&gt;See &lt;a href=&#34;https://nus-plse.github.io/seminars.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nus-plse.github.io/seminars.html&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chi Zhang, a PhD student at Nanjing University, is visiting the lab for one year. Welcome!</title>
+      <link>https://nus-test.github.io/post/22-08-25-chi/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/22-08-25-chi/</guid>
+      <description>&lt;p&gt;Check out his website at &lt;a href=&#34;https://ch1zhang.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ch1zhang.github.io/&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Manuel gave a presentation on SQLancer at the APAC Modern Data Stack (MDS) Meetup Group.</title>
+      <link>https://nus-test.github.io/post/22-08-25-singularity/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/22-08-25-singularity/</guid>
+      <description>&lt;p&gt;See &lt;a href=&#34;https://www.meetup.com/apac-modern-data-stack-meetup-group/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APAC Modern Data Stack (MDS) Meetup Group&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jinsheng Ba and Suyang Zhong officially joined the NUS TEST lab. Welcome!</title>
+      <link>https://nus-test.github.io/post/22-08-01-jinsheng-suyang/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/22-08-01-jinsheng-suyang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>We will offer module CS6218 on &#34;Ensuring the Correctness and Reliability of Data-Centric Systems&#34; next semester.</title>
+      <link>https://nus-test.github.io/post/22-08-01-cs6218/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/22-08-01-cs6218/</guid>
+      <description>&lt;p&gt;More information about the module is provided on the &lt;a href=&#34;https://canvas.nus.edu.sg/courses/25019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Canvas page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Manuel shared his experience on the academic job market at a seminar and panel discussion at NUS</title>
+      <link>https://nus-test.github.io/post/21-09-27-nus-academic-job-experience-talk/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/21-09-27-nus-academic-job-experience-talk/</guid>
+      <description>&lt;p&gt;Manuel presented his experience interviewing for faculty positions at a seminar and panel discussion to PhD students and postdocs at the School of Computing at NUS.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

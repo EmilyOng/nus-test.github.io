@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Trustworthy Engineering of Software Technologies (TEST) Lab</title>
+    <link>https://nus-test.github.io/publication-type/2/</link>
+      <atom:link href="https://nus-test.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nus-test.github.io/media/logo_hu54a81beaedce3437486bda7d4bb96888_11488_300x300_fit_lanczos_3.png</url>
+      <title>2</title>
+      <link>https://nus-test.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Automated Database Testing via LLM-Synthesized SQL Features</title>
+      <link>https://nus-test.github.io/publication/2027-sigmod-llm-sql-features/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2027-sigmod-llm-sql-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Join Bugs in Database Engines via Join Implication Reasoning</title>
+      <link>https://nus-test.github.io/publication/2026-sigmod-join-bugs/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2026-sigmod-join-bugs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dialect-Agnostic SQL Parsing via LLM-Based Segmentation</title>
+      <link>https://nus-test.github.io/publication/2026-sigmod-dialect-agnostic/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2026-sigmod-dialect-agnostic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NRBench: A Benchmark Suite for Learned Database Components with Drift Modeling</title>
+      <link>https://nus-test.github.io/publication/2026-sigmod-nrbench/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2026-sigmod-nrbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bringing Order to Practical Validation of Database Isolation Levels</title>
+      <link>https://nus-test.github.io/publication/2026-tocs-isolation/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2026-tocs-isolation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Logic Bugs in Graph-processing Systems via Graph-cutting</title>
+      <link>https://nus-test.github.io/publication/2025-sigmod-graphcutting/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2025-sigmod-graphcutting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs</title>
+      <link>https://nus-test.github.io/publication/2025-sigmod-aei/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2025-sigmod-aei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constant Optimization Driven Database System Testing</title>
+      <link>https://nus-test.github.io/publication/2025-sigmod-coddtest/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2025-sigmod-coddtest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Reusing Test Suites Across Database Systems</title>
+      <link>https://nus-test.github.io/publication/2025-sigmod-reusing-tests/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2025-sigmod-reusing-tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keep It Simple: Testing Databases via Differential Query Plans</title>
+      <link>https://nus-test.github.io/publication/2024-sigmod-dqp/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2024-sigmod-dqp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

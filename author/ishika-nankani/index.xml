@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ishika Nankani | Trustworthy Engineering of Software Technologies (TEST) Lab</title>
+    <link>https://nus-test.github.io/author/ishika-nankani/</link>
+      <atom:link href="https://nus-test.github.io/author/ishika-nankani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ishika Nankani</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://nus-test.github.io/author/ishika-nankani/avatar_hue1d937e7304d8e5efff68f20fb0dd1fa_27813_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ishika Nankani</title>
+      <link>https://nus-test.github.io/author/ishika-nankani/</link>
+    </image>
+    
+  </channel>
+</rss>

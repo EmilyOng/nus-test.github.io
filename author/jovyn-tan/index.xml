@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jovyn Tan | Trustworthy Engineering of Software Technologies (TEST) Lab</title>
+    <link>https://nus-test.github.io/author/jovyn-tan/</link>
+      <atom:link href="https://nus-test.github.io/author/jovyn-tan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jovyn Tan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nus-test.github.io/author/jovyn-tan/avatar_hubdcc7a7eb34475b9fee82b2a22b13340_124797_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Jovyn Tan</title>
+      <link>https://nus-test.github.io/author/jovyn-tan/</link>
+    </image>
+    
+    <item>
+      <title>Inconsistencies in TeX-produced Documents</title>
+      <link>https://nus-test.github.io/publication/2024-issta-tex-inconsistencies/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2024-issta-tex-inconsistencies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inconsistencies in TeX-produced Documents</title>
+      <link>https://nus-test.github.io/event/240409/</link>
+      <pubDate>Tue, 09 Apr 2024 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240409/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

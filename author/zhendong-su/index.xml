@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhendong Su | Trustworthy Engineering of Software Technologies (TEST) Lab</title>
+    <link>https://nus-test.github.io/author/zhendong-su/</link>
+      <atom:link href="https://nus-test.github.io/author/zhendong-su/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhendong Su</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nus-test.github.io/media/logo_hu54a81beaedce3437486bda7d4bb96888_11488_300x300_fit_lanczos_3.png</url>
+      <title>Zhendong Su</title>
+      <link>https://nus-test.github.io/author/zhendong-su/</link>
+    </image>
+    
+    <item>
+      <title>Testing Graph Database Engines via Query Partitioning</title>
+      <link>https://nus-test.github.io/publication/2023-issta-gdbmeter/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2023-issta-gdbmeter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forest: Structural Code Editing with Multiple Cursors</title>
+      <link>https://nus-test.github.io/publication/2022-onward-forest/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2022-onward-forest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intramorphic Testing: A New Approach to the Test Oracle Problem</title>
+      <link>https://nus-test.github.io/publication/2022-onward-intramorphic/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2022-onward-intramorphic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

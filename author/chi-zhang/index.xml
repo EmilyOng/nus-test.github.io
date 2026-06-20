@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chi Zhang | Trustworthy Engineering of Software Technologies (TEST) Lab</title>
+    <link>https://nus-test.github.io/author/chi-zhang/</link>
+      <atom:link href="https://nus-test.github.io/author/chi-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chi Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nus-test.github.io/author/chi-zhang/avatar_hu4c86a87aa2bc5b70150f4374c513f6f6_1032500_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Chi Zhang</title>
+      <link>https://nus-test.github.io/author/chi-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Constant Optimization Driven Database System Testing</title>
+      <link>https://nus-test.github.io/publication/2025-sigmod-coddtest/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2025-sigmod-coddtest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Cross-rule Optimization Bugs in Datalog Engines</title>
+      <link>https://nus-test.github.io/publication/2024-oopsla-datalog-testing/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2024-oopsla-datalog-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Database Systems Through the Lens of Constant Folding and Constant Propagation</title>
+      <link>https://nus-test.github.io/event/230911/</link>
+      <pubDate>Mon, 11 Sep 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/230911/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Optimization Bugs in Datalog Engines</title>
+      <link>https://nus-test.github.io/event/230220/</link>
+      <pubDate>Mon, 20 Feb 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/230220/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrared: A Meta Bug Detector</title>
+      <link>https://nus-test.github.io/event/220929/</link>
+      <pubDate>Thu, 29 Sep 2022 13:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/220929/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

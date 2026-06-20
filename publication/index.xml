@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Trustworthy Engineering of Software Technologies (TEST) Lab</title>
+    <link>https://nus-test.github.io/publication/</link>
+      <atom:link href="https://nus-test.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nus-test.github.io/media/logo_hu54a81beaedce3437486bda7d4bb96888_11488_300x300_fit_lanczos_3.png</url>
+      <title>Publications</title>
+      <link>https://nus-test.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Automated Database Testing via LLM-Synthesized SQL Features</title>
+      <link>https://nus-test.github.io/publication/2027-sigmod-llm-sql-features/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2027-sigmod-llm-sql-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Join Bugs in Database Engines via Join Implication Reasoning</title>
+      <link>https://nus-test.github.io/publication/2026-sigmod-join-bugs/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2026-sigmod-join-bugs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dialect-Agnostic SQL Parsing via LLM-Based Segmentation</title>
+      <link>https://nus-test.github.io/publication/2026-sigmod-dialect-agnostic/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2026-sigmod-dialect-agnostic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NRBench: A Benchmark Suite for Learned Database Components with Drift Modeling</title>
+      <link>https://nus-test.github.io/publication/2026-sigmod-nrbench/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2026-sigmod-nrbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bringing Order to Practical Validation of Database Isolation Levels</title>
+      <link>https://nus-test.github.io/publication/2026-tocs-isolation/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2026-tocs-isolation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ACME: Automated Clause Mapping Engine for Testing Emerging Database Systems</title>
+      <link>https://nus-test.github.io/publication/2026-fse-acme/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2026-fse-acme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling Automated Database System Testing</title>
+      <link>https://nus-test.github.io/publication/2026-asplos-sqlancerpp/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2026-asplos-sqlancerpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Logic Bugs in Graph-processing Systems via Graph-cutting</title>
+      <link>https://nus-test.github.io/publication/2025-sigmod-graphcutting/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2025-sigmod-graphcutting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Mistaken Assumption of Interchangeable Deep Reinforcement Learning Implementations</title>
+      <link>https://nus-test.github.io/publication/2025-icse-mistaken-assumption/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2025-icse-mistaken-assumption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Unified Query Plan Representation</title>
+      <link>https://nus-test.github.io/publication/2025-icde-uplan/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2025-icde-uplan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzing the PHP Interpreter via Dataflow Fusion</title>
+      <link>https://nus-test.github.io/publication/2025-sec-flowfusion/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2025-sec-flowfusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs</title>
+      <link>https://nus-test.github.io/publication/2025-sigmod-aei/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2025-sigmod-aei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constant Optimization Driven Database System Testing</title>
+      <link>https://nus-test.github.io/publication/2025-sigmod-coddtest/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2025-sigmod-coddtest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Reusing Test Suites Across Database Systems</title>
+      <link>https://nus-test.github.io/publication/2025-sigmod-reusing-tests/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2025-sigmod-reusing-tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inconsistencies in TeX-produced Documents</title>
+      <link>https://nus-test.github.io/publication/2024-issta-tex-inconsistencies/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2024-issta-tex-inconsistencies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Efficient Build Ordering for Incremental Builds with Multiple Configurations</title>
+      <link>https://nus-test.github.io/publication/2025-fse-buildordering/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2025-fse-buildordering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keep It Simple: Testing Databases via Differential Query Plans</title>
+      <link>https://nus-test.github.io/publication/2024-sigmod-dqp/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2024-sigmod-dqp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Build Dependency Errors in Incremental Builds</title>
+      <link>https://nus-test.github.io/publication/2024-issta-build-errors/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2024-issta-build-errors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validating Database System Isolation Level Implementations with Version Certificate Recovery</title>
+      <link>https://nus-test.github.io/publication/2024-eurosys-certificate/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2024-eurosys-certificate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Cross-rule Optimization Bugs in Datalog Engines</title>
+      <link>https://nus-test.github.io/publication/2024-oopsla-datalog-testing/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2024-oopsla-datalog-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding XPath Bugs in XML Document Processors via Differential Testing</title>
+      <link>https://nus-test.github.io/publication/2024-icse-xml-testing/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2024-icse-xml-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CERT: Finding Performance Issues in Database Systems Through the Lens of Cardinality Estimation</title>
+      <link>https://nus-test.github.io/publication/2024-icse-cert/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2024-icse-cert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Logic Bugs in Graph Database Management Systems via Injective and Surjective Graph Pattern Transformation</title>
+      <link>https://nus-test.github.io/publication/2024-icse-gdbms-testing/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2024-icse-gdbms-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Database Engines via Query Plan Guidance</title>
+      <link>https://nus-test.github.io/publication/2023-icse-qpg/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2023-icse-qpg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Graph Database Engines via Query Partitioning</title>
+      <link>https://nus-test.github.io/publication/2023-issta-gdbmeter/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2023-issta-gdbmeter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forest: Structural Code Editing with Multiple Cursors</title>
+      <link>https://nus-test.github.io/publication/2022-onward-forest/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2022-onward-forest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intramorphic Testing: A New Approach to the Test Oracle Problem</title>
+      <link>https://nus-test.github.io/publication/2022-onward-intramorphic/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2022-onward-intramorphic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

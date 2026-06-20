@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weekly Talk | Trustworthy Engineering of Software Technologies (TEST) Lab</title>
+    <link>https://nus-test.github.io/tag/weekly-talk/</link>
+      <atom:link href="https://nus-test.github.io/tag/weekly-talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weekly Talk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Apr 2026 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nus-test.github.io/media/logo_hu54a81beaedce3437486bda7d4bb96888_11488_300x300_fit_lanczos_3.png</url>
+      <title>Weekly Talk</title>
+      <link>https://nus-test.github.io/tag/weekly-talk/</link>
+    </image>
+    
+    <item>
+      <title>Once4All: Skeleton-Guided SMT Solver Fuzzing with LLM-Synthesized Generators</title>
+      <link>https://nus-test.github.io/event/260422/</link>
+      <pubDate>Wed, 22 Apr 2026 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/260422/</guid>
+      <description>&lt;p&gt;Speaker Info:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://merlin-cs.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maolin Sun&lt;/a&gt; is pursuing the Ph.D. degree at School of Computer Science, Nanjing University, advised by Yuming Zhou and Yibiao Yang.
+He received my M.Sc. degree from Huazhong University of Science and Technology in 2023, advised by Ming Wen. His current research interests revolve around automated testing and analysis technologies for software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Argus: Automated Discovery of Test Oracles for Database Management Systems Using LLMs</title>
+      <link>https://nus-test.github.io/event/260415/</link>
+      <pubDate>Wed, 15 Apr 2026 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/260415/</guid>
+      <description>&lt;p&gt;For more info about the paper, see &lt;a href=&#34;https://joyemang33.github.io/blog/2026/argus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VDBFuzz: Understanding and Detecting Crash Bugs in Vector Database Management Systems</title>
+      <link>https://nus-test.github.io/event/260401/</link>
+      <pubDate>Wed, 01 Apr 2026 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/260401/</guid>
+      <description>&lt;p&gt;Speaker Info:&lt;/p&gt;
+&lt;p&gt;Shenao Wang is a Ph.D. student at Huazhong University of Science and Technology, advised by Professor Haoyu Wang. His research focuses on the intersection of security, program analysis, and software systems. His recent work centers on the security vulnerabilities in the LLM infrastructure and agentic software ecosystem.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparables XAI: Faithful Example-based AI Explanations with Counterfactual Trace Adjustments</title>
+      <link>https://nus-test.github.io/event/260318/</link>
+      <pubDate>Wed, 18 Mar 2026 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/260318/</guid>
+      <description>&lt;p&gt;Speaker Info:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://yvonnefanf.github.io/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yifan Zhang&lt;/a&gt; is a Ph.D. student at SoC, National University of Singapore , working in the UbiComp Lab under the supervision of &lt;a href=&#34;https://www.brianlim.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Brian Y. Lim&lt;/a&gt;.
+Her research interests include Explainable Artificial Intelligence (XAI) and Human-Computer Interaction (HCI).
+Specifically, She focuses on designing and developing explainable AI techniques to improve the transparency of complex AI model decision-making processes.
+Guided by human-centered principles, her work aims to provide cognitively accessible explanations that enhance overall interpretability.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How Should Applications Choose Optimal Isolation Levels?</title>
+      <link>https://nus-test.github.io/event/260311/</link>
+      <pubDate>Wed, 11 Mar 2026 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/260311/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software-Style Hardware Testing: Information-Flow Tracking, Fuzzing, and What ML Might Add.</title>
+      <link>https://nus-test.github.io/event/260304/</link>
+      <pubDate>Wed, 04 Mar 2026 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/260304/</guid>
+      <description>&lt;p&gt;Speaker Info:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://flaviens.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flavien Solt&lt;/a&gt; is an Assistant Professor at the National University of Singapore. Previously, he was a postdoctoral researcher in the SLICE Lab at University of California, Berkeley, working with Chris Fletcher. He received his PhD from ETH Zurich in 2024 under the supervision of Kaveh Razavi, and was awarded the ETH Medal.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Empirical Study to Runtime Mitigation: Addressing Integration Failures in LLM-Enabled Software</title>
+      <link>https://nus-test.github.io/event/260211/</link>
+      <pubDate>Wed, 11 Feb 2026 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/260211/</guid>
+      <description>&lt;p&gt;Speaker Info:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ycshao12.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yuchen Shao&lt;/a&gt; is a third-year Ph.D. student at the Software Engineering Institute, East China Normal University (ECNU) and the Shanghai Innovation Institute, co-advised by Prof. Chengcheng Wan and Prof. Ting Su. Her research interests lie in SE/Sys for AI and software testing. Her recent work centers on the correctness and reliability of Large Language Model (LLM) integration in software systems, including analyzing integration patterns and mitigating runtime failures in LLM-enabled software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Finding Bugs in MLIR Compiler Infrastructure via Lowering Space Exploration</title>
+      <link>https://nus-test.github.io/event/251028/</link>
+      <pubDate>Tue, 28 Oct 2025 16:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/251028/</guid>
+      <description>&lt;p&gt;Speaker Info:&lt;/p&gt;
+&lt;p&gt;Jingjing Liang is a Postdoctoral Fellow at East China Normal University, working with Prof. Ting Su. She received her Ph.D. degree in Computer Science from Peking University, under the supervision of Prof. Yingfei Xiong, and her B.S. degree in Software Engineering from East China Normal University.&lt;/p&gt;
+&lt;p&gt;Her research interests lie in software engineering, particularly in software testing, fault localization, and program repair. Her recent work centers on compiler testing and the use of AI-driven techniques to improve the effectiveness and intelligence of testing processes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linalg is All Your Need</title>
+      <link>https://nus-test.github.io/event/251010/</link>
+      <pubDate>Fri, 10 Oct 2025 16:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/251010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;My productivity is boosted, but …&#34; Demystifying Users Perception on AI Coding Assistants</title>
+      <link>https://nus-test.github.io/event/250930/</link>
+      <pubDate>Tue, 30 Sep 2025 16:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250930/</guid>
+      <description>&lt;p&gt;Speaker info: See &lt;a href=&#34;https://yunbolyu.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://yunbolyu.github.io/&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Static bug detection in the era of LLMs</title>
+      <link>https://nus-test.github.io/event/250902/</link>
+      <pubDate>Tue, 02 Sep 2025 16:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250902/</guid>
+      <description>&lt;p&gt;Speaker info: &amp;ldquo;&lt;a href=&#34;https://yilinglou.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yiling Lou&lt;/a&gt; is a pre-tenure associate professor at Fudan University. Previously, she was a postdoctoral researcher at Purdue University and she received her Ph.D. from Peking University. Her research interests lie in the intersection between software engineering and artificial intelligence, with a focus on building AI-powered systems to support software development and maintenance. Her work has received two ACM SIGSOFT Distinguished Paper Awards (ISSTA 2019 and FSE 2023) and one IEEE TCSE Distinguished Paper Award (ICSME 2021). She served as the PC co-chair for AIware 2025 and LLM4Code 2024/2025.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why the Proof Fails in Different Versions of Theorem Provers: An Empirical Study of Compatibility Issues in Isabelle</title>
+      <link>https://nus-test.github.io/event/250826/</link>
+      <pubDate>Tue, 26 Aug 2025 16:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250826/</guid>
+      <description>&lt;p&gt;Speaker Info: &amp;ldquo;Xiaokun Luan is a Ph.D. student at the School of Mathematical Sciences, Peking University, advised by Professor Meng Sun. His research focuses on formal methods, including theorem proving and constraint solving, and on artificial intelligence, covering model copyright protection and the provenance of generated content, along with the intersection of these fields. His work has received an ACM SIGSOFT Distinguished Paper Award at FSE 2025.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents</title>
+      <link>https://nus-test.github.io/event/250819/</link>
+      <pubDate>Tue, 19 Aug 2025 16:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250819/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CrackSQL: A Hybrid SQL Dialect Translation System Powered by Large Language Models</title>
+      <link>https://nus-test.github.io/event/250812/</link>
+      <pubDate>Tue, 12 Aug 2025 16:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250812/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Dialect-Agnostic Query Parsing and Rewriting</title>
+      <link>https://nus-test.github.io/event/250430/</link>
+      <pubDate>Wed, 30 Apr 2025 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250430/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Mistaken Assumption of Interchangeable Deep Reinforcement Learning Implementations</title>
+      <link>https://nus-test.github.io/event/250423/</link>
+      <pubDate>Wed, 23 Apr 2025 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250423/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Bug Reporting Agreement -- Towards More Verifiable and Valid Software Testing Research</title>
+      <link>https://nus-test.github.io/event/250416_2/</link>
+      <pubDate>Wed, 16 Apr 2025 14:30:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250416_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siloso: Finding Logic Bugs in RDBMS via Dialect-Adaptable Reference Engine Construction</title>
+      <link>https://nus-test.github.io/event/250416/</link>
+      <pubDate>Wed, 16 Apr 2025 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250416/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper Share - DOVE: Diagnosis-driven SLO Violation Detection</title>
+      <link>https://nus-test.github.io/event/250409/</link>
+      <pubDate>Wed, 09 Apr 2025 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250409/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeurBench: Benchmarking Learned Database Components with Data and Workload Drift Modeling</title>
+      <link>https://nus-test.github.io/event/250326/</link>
+      <pubDate>Wed, 26 Mar 2025 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250326/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translating C To Rust: Lessons from a User Study</title>
+      <link>https://nus-test.github.io/event/250311/</link>
+      <pubDate>Tue, 11 Mar 2025 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250311/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Differential Testing of the PHP Interpreter</title>
+      <link>https://nus-test.github.io/event/250305_2/</link>
+      <pubDate>Wed, 05 Mar 2025 14:30:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250305_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzing the PHP Interpreter via Dataflow Fusion</title>
+      <link>https://nus-test.github.io/event/250305/</link>
+      <pubDate>Wed, 05 Mar 2025 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250305/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Benchmark Harness for Query Execution Correctness Verification and Query Optimizer Evaluation of Database Systems</title>
+      <link>https://nus-test.github.io/event/250219/</link>
+      <pubDate>Wed, 19 Feb 2025 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250219/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient and Scalable Distributed LLM Training: Hiding Communication Overhead</title>
+      <link>https://nus-test.github.io/event/250212/</link>
+      <pubDate>Wed, 12 Feb 2025 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250212/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type Systems for Query Languages</title>
+      <link>https://nus-test.github.io/event/250122/</link>
+      <pubDate>Wed, 22 Jan 2025 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250122/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SGL: Deriving Test Case Generators using Domain-Specific Language to Test Database Engines</title>
+      <link>https://nus-test.github.io/event/241126/</link>
+      <pubDate>Tue, 26 Nov 2024 15:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/241126/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated test case reduction in query specific language(s)</title>
+      <link>https://nus-test.github.io/event/241112/</link>
+      <pubDate>Tue, 12 Nov 2024 15:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/241112/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Extensibility of SQLancer</title>
+      <link>https://nus-test.github.io/event/241105/</link>
+      <pubDate>Tue, 05 Nov 2024 15:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/241105/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CodeGRITS: A Research Toolkit for Developer Behavior and Eye Tracking in IDE</title>
+      <link>https://nus-test.github.io/event/241015/</link>
+      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/241015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatically Generating an Abstract Interpretation-Based Optimizer from a DSL (SPLASH SRC Practice)</title>
+      <link>https://nus-test.github.io/event/241008/</link>
+      <pubDate>Tue, 08 Oct 2024 15:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/241008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are Deep Reinforcement Learning Implementations Really Interchangeable?</title>
+      <link>https://nus-test.github.io/event/240910/</link>
+      <pubDate>Tue, 10 Sep 2024 15:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240910/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Build Dependency Errors in Incremental Builds</title>
+      <link>https://nus-test.github.io/event/240903/</link>
+      <pubDate>Tue, 03 Sep 2024 15:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240903/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple yet Effective Framework for Testing Various Isolation Levels in Black-Box Databases</title>
+      <link>https://nus-test.github.io/event/240826/</link>
+      <pubDate>Mon, 26 Aug 2024 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240826/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Uncovering Memory Errors in the PHP Engine via Dataflow Fusion and Mutation</title>
+      <link>https://nus-test.github.io/event/240820/</link>
+      <pubDate>Tue, 20 Aug 2024 15:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240820/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling Automated Database System Testing</title>
+      <link>https://nus-test.github.io/event/240813/</link>
+      <pubDate>Tue, 13 Aug 2024 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240813/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ViewChecker: A Sound and Complete Checker for View-Serializability in Quadratic Time Complexity</title>
+      <link>https://nus-test.github.io/event/240618/</link>
+      <pubDate>Tue, 18 Jun 2024 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240618/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Logic Bugs in Database Engines via Equivalent Expression Transformation</title>
+      <link>https://nus-test.github.io/event/240430/</link>
+      <pubDate>Tue, 30 Apr 2024 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240430/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inconsistencies in TeX-produced Documents</title>
+      <link>https://nus-test.github.io/event/240409/</link>
+      <pubDate>Tue, 09 Apr 2024 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240409/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent Code Analysis and Program Repair in the Era of LLMs</title>
+      <link>https://nus-test.github.io/event/240402/</link>
+      <pubDate>Tue, 02 Apr 2024 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240402/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting and Verifying Unexpected Behaviors in Web Applications using Program Analysis</title>
+      <link>https://nus-test.github.io/event/240326/</link>
+      <pubDate>Tue, 26 Mar 2024 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240326/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CS3213 Lecture - Software Evolution</title>
+      <link>https://nus-test.github.io/event/240319/</link>
+      <pubDate>Tue, 19 Mar 2024 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240319/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs</title>
+      <link>https://nus-test.github.io/event/240312/</link>
+      <pubDate>Tue, 12 Mar 2024 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240312/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning-based Widget Matching for Migrating GUI Test Cases</title>
+      <link>https://nus-test.github.io/event/240305/</link>
+      <pubDate>Tue, 05 Mar 2024 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240305/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Graph Database via Graph-Aware Metamorphic Relations</title>
+      <link>https://nus-test.github.io/event/240220/</link>
+      <pubDate>Tue, 20 Feb 2024 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240220/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to code commit process</title>
+      <link>https://nus-test.github.io/event/240206/</link>
+      <pubDate>Tue, 06 Feb 2024 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240206/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golly! Granular Bug Finding via Polyhedral Analysis of GPU Kernels</title>
+      <link>https://nus-test.github.io/event/240130/</link>
+      <pubDate>Tue, 30 Jan 2024 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240130/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equivalent Query Rewriting in Graph Database without Hard-code Rules</title>
+      <link>https://nus-test.github.io/event/240116/</link>
+      <pubDate>Tue, 16 Jan 2024 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/240116/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mozi: Discovering DBMS Bugs via Configuration-Based Equivalent Transformation</title>
+      <link>https://nus-test.github.io/event/231218/</link>
+      <pubDate>Mon, 18 Dec 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/231218/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Change Data Capture Tools via SQLancer-CDC</title>
+      <link>https://nus-test.github.io/event/231204/</link>
+      <pubDate>Mon, 04 Dec 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/231204/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GrayC: Greybox Fuzzing of Compilers and Analysers for C</title>
+      <link>https://nus-test.github.io/event/231127/</link>
+      <pubDate>Mon, 27 Nov 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/231127/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Build Maintenance​: Errors and Efficiency</title>
+      <link>https://nus-test.github.io/event/231120/</link>
+      <pubDate>Mon, 20 Nov 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/231120/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Runtime Compiler Optimizations for CPython Bytecode</title>
+      <link>https://nus-test.github.io/event/231114/</link>
+      <pubDate>Tue, 14 Nov 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/231114/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reusing Test Suites Across Database Systems</title>
+      <link>https://nus-test.github.io/event/231023/</link>
+      <pubDate>Mon, 23 Oct 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/231023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sanitizers&#39; Blind Spots: Invisible Undefined Behaviors</title>
+      <link>https://nus-test.github.io/event/231016/</link>
+      <pubDate>Mon, 16 Oct 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/231016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Typing Compiler Bugs</title>
+      <link>https://nus-test.github.io/event/231009/</link>
+      <pubDate>Mon, 09 Oct 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/231009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Testing and Improvement of Named Entity Recognition Systems</title>
+      <link>https://nus-test.github.io/event/231002/</link>
+      <pubDate>Mon, 02 Oct 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/231002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous driving system defect localization</title>
+      <link>https://nus-test.github.io/event/230918/</link>
+      <pubDate>Mon, 18 Sep 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/230918/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Database Systems Through the Lens of Constant Folding and Constant Propagation</title>
+      <link>https://nus-test.github.io/event/230911/</link>
+      <pubDate>Mon, 11 Sep 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/230911/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Race Detection in CUDA Kernels</title>
+      <link>https://nus-test.github.io/event/230904/</link>
+      <pubDate>Mon, 04 Sep 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/230904/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding XPath Bugs in XML Processors via Differential Testing</title>
+      <link>https://nus-test.github.io/event/230828/</link>
+      <pubDate>Mon, 28 Aug 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/230828/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deriving Test Case Generators using Domain-Specific Language to Test Database Engine (Interim Report)</title>
+      <link>https://nus-test.github.io/event/230417_2/</link>
+      <pubDate>Mon, 17 Apr 2023 15:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/230417_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Part1: Reusing testsuites of Databases</title>
+      <link>https://nus-test.github.io/event/230417/</link>
+      <pubDate>Mon, 17 Apr 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/230417/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing JDBC drivers</title>
+      <link>https://nus-test.github.io/event/230403/</link>
+      <pubDate>Mon, 03 Apr 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/230403/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Graph Databases</title>
+      <link>https://nus-test.github.io/event/230320/</link>
+      <pubDate>Mon, 20 Mar 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/230320/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Testing for XPath Query Processors</title>
+      <link>https://nus-test.github.io/event/230313/</link>
+      <pubDate>Mon, 13 Mar 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/230313/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open-Domain Aspect-Opinion Co-Mining with Double-Layer Span Extraction</title>
+      <link>https://nus-test.github.io/event/230306/</link>
+      <pubDate>Mon, 06 Mar 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/230306/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SamplingCA: Effective and Efficient Sampling-Based Pairwise Testing for Highly Configurable Software Systems</title>
+      <link>https://nus-test.github.io/event/230227/</link>
+      <pubDate>Mon, 27 Feb 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/230227/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Optimization Bugs in Datalog Engines</title>
+      <link>https://nus-test.github.io/event/230220/</link>
+      <pubDate>Mon, 20 Feb 2023 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/230220/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General SQL Grammar for Testing Case Generation</title>
+      <link>https://nus-test.github.io/event/230213/</link>
+      <pubDate>Mon, 13 Feb 2023 13:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/230213/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cardinality Estimation Testing</title>
+      <link>https://nus-test.github.io/event/230206/</link>
+      <pubDate>Mon, 06 Feb 2023 13:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/230206/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

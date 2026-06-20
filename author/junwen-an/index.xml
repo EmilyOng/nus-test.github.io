@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junwen An | Trustworthy Engineering of Software Technologies (TEST) Lab</title>
+    <link>https://nus-test.github.io/author/junwen-an/</link>
+      <atom:link href="https://nus-test.github.io/author/junwen-an/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junwen An</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nus-test.github.io/author/junwen-an/avatar_hu66fa1b2152f064be6635137925d03433_131844_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Junwen An</title>
+      <link>https://nus-test.github.io/author/junwen-an/</link>
+    </image>
+    
+    <item>
+      <title>Dialect-Agnostic SQL Parsing via LLM-Based Segmentation</title>
+      <link>https://nus-test.github.io/publication/2026-sigmod-dialect-agnostic/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/publication/2026-sigmod-dialect-agnostic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rajdeep Singh and Junwen An were awarded the &#34;Research Achievement Award&#34; by the School of Computing!</title>
+      <link>https://nus-test.github.io/post/25-01-08-researchaward-rajdeep-junwen/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/25-01-08-researchaward-rajdeep-junwen/</guid>
+      <description>&lt;p&gt;Congratulations to Rajdeep and Junwen!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Junwen An and Emily Ong Got First Place at SPLASH ’25 SRC!</title>
+      <link>https://nus-test.github.io/post/25-10-18-splash-sv/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/post/25-10-18-splash-sv/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;splash25_sv.png&#34; alt=&#34;&#34;&gt;
+Congratulations to Junwen and Emily!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Dialect-Agnostic Query Parsing and Rewriting</title>
+      <link>https://nus-test.github.io/event/250430/</link>
+      <pubDate>Wed, 30 Apr 2025 14:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/250430/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CodeGRITS: A Research Toolkit for Developer Behavior and Eye Tracking in IDE</title>
+      <link>https://nus-test.github.io/event/241015/</link>
+      <pubDate>Tue, 15 Oct 2024 15:00:00 +0000</pubDate>
+      <guid>https://nus-test.github.io/event/241015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
